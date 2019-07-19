@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009ACD</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorgreen">#42B742</color>
+    <color name="colorgray">#BEBEBE</color>
+    <color name="test">#DCDCDC</color>
+
+    <!--Zxing相关-->
+    <color name="contents_text">#000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="possible_result_points">#c0ffbd21</color> <!-- Android standard ICS color -->
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c099cc00</color> <!-- Android standard ICS color -->
+    <color name="result_text">#FFFFFF</color>
+    <color name="result_view">#b0000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_laser">#ffcc0000</color> <!-- Android standard ICS color -->
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="app_bg">#EEE9E9</color>
+    <color name="grey">#cecece</color>
+    <color name="grey_plus">#A4A3A3</color>
+    <color name="green">#1d953f</color>
+    <color name="coral">#DEB887</color>
+
+</resources>
